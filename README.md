@@ -14,4 +14,4 @@ This Streamlit app enables interaction with any data set. The data can be cluste
    cd PathToProjectFolder
 
 2. Start streamlit app:
-   streamlit run app.py
+   streamlit run userinterface.py
